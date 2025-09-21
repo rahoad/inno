@@ -1,8 +1,4 @@
-# Therapist Finder (React Native / Expo)
-
-
-En minimal prototype der opfylder kravene til obligatorisk opgave: 3 screens (Home, List, Detail), ≥2 knapper (navigation + mock-funktion), én liste (FlatList), styling i separat fil. Data er hardcoded.
-
+# Behandlo (React Native / Expo)
 
 ## Kørsel
 ```bash
